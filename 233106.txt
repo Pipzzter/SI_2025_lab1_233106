@@ -1,0 +1,22 @@
+git add README.md
+git commit -m "Initial commit"
+git add SI2025Lab1Main.java
+git commit -m "Add starter code"
+git push
+git fetch origin
+git checkout remove-a-task-by-name
+git add SI2025Lab1Main.java
+git commit -m "feature: added remove task by name functionality"
+git push origin remove-a-task-by-name
+git checkout find-all-completed-tasks
+git add SI2025Lab1Main.java
+git commit -m "feature: added get completed tasks functionality"
+git push origin find-all-completed-tasks
+git checkout sort-tasks-by-priority
+git add SI2025Lab1Main.java
+git commit -m "feature: added sorting tasks by priority functionality"
+git push origin sort-tasks-by-priority
+git checkout master
+git merge sort-tasks-by-priority
+git pull
+git push

@@ -1,0 +1,15 @@
+*   e4aa296 (HEAD -> master, origin/master, origin/HEAD) Merge branch 'master' of https://github.com/Pipzzter/SI_2025_lab1_233106
+|\
+| *   0e24577 Merge pull request #11 from Pipzzter/find-all-completed-tasks
+| |\
+| | * a18c30a (origin/find-all-completed-tasks, find-all-completed-tasks) feature: added get completed tasks functionality
+| * |   268f525 Merge pull request #10 from Pipzzter/remove-a-task-by-name
+| |\ \
+| | |/
+| |/|
+| | * 0a6ff0a (origin/remove-a-task-by-name, remove-a-task-by-name) feature: added remove task by name functionality
+| |/
+* / 89d56f7 (origin/sort-tasks-by-priority, sort-tasks-by-priority) feature: added sorting tasks by priority functionality
+|/
+* a262f2b (origin/main) Add starter code
+* 1590960 Initial commit
